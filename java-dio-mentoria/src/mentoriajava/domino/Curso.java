@@ -1,8 +1,8 @@
-package mentoriajava;
+package mentoriajava.domino;
 
-public class Curso extends ConteudoEducacional{
+public class Curso extends ConteudoEducacional {
 	private int cargaHoraria;
-	
+
 	public int getCargaHoraria() {
 		return cargaHoraria;
 	}

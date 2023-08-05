@@ -1,4 +1,4 @@
-package mentoriajava;
+package mentoriajava.domino;
 
 public abstract class ConteudoEducacional {
 	private String titulo;
